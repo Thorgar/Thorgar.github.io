@@ -1,0 +1,1 @@
+import{u as e,Z as a,$ as s,r as l}from"./index.81bb9900.js";function u(u,i={clickOutside:!0}){const t=e(!1);i.clickOutside&&a(u,(()=>{t.value=!1}));return s((()=>{u.value&&(t.value?u.value.classList.add("is-active"):u.value.classList.remove("is-active"))})),l({isOpen:t,open:()=>{t.value=!0},close:()=>{t.value=!1},toggle:()=>{t.value=!t.value}})}export{u};

@@ -1,0 +1,1 @@
+import{_ as s,o as a,d as t,b as e,j as n,a as r,w as o,k as u}from"./index.81bb9900.js";const d={class:"auth-wrapper"};const c=s({},[["render",function(s,n){return a(),t("div",d,[e(s.$slots,"default")])}]]);const l=s({},[["render",function(s,t){const e=n("RouterView"),d=c;return a(),r(d,null,{default:o((()=>[u(e)])),_:1})}]]);export{l as default};

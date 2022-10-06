@@ -1,0 +1,1 @@
+import{A as s,o as a,d as o,b as d,f as t}from"./index.81bb9900.js";const n=s({__name:"VTags",props:{addons:{type:Boolean}},setup(s){const n=s;return(s,e)=>(a(),o("div",{class:t(["tags",[n.addons&&"has-addons"]])},[d(s.$slots,"default")],2))}});export{n as _};

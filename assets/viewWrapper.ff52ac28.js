@@ -1,0 +1,1 @@
+import{V as e,u as s}from"./index.81bb9900.js";const o=e("viewWrapper",(()=>{const e=s(!1),o=s(!1),t=s("Valyrdra & Thorgar Commissions");return{isPushed:e,isPushedBlock:o,pageTitle:t,setPushed:function(s){e.value=s},setPushedBlock:function(e){o.value=e},setPageTitle:function(e){t.value=e}}}));export{o as u};

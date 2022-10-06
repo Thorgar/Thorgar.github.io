@@ -1,0 +1,1 @@
+import{V as e,E as n}from"./index.81bb9900.js";const t=e("panels",(()=>{const e=n("active-panel","none");return{active:e,setActive:function(n){e.value=n},close:function(){e.value="none"}}}));export{t as u};

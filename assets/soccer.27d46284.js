@@ -1,0 +1,1 @@
+import{_ as e}from"./SoccerDashboard.a91ecead.js";import{A as a,B as r,o as s,d as o,k as t}from"./index.81bb9900.js";import{u as c}from"./viewWrapper.ff52ac28.js";const i={class:"page-content-inner"},n=a({__name:"soccer",setup:a=>(c().setPageTitle("Soccer"),r({title:"Soccer Dashboard - Sidebar - Vuero"}),(a,r)=>{const c=e;return s(),o("div",i,[t(c)])})});export{n as default};
